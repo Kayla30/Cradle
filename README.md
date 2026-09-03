@@ -40,6 +40,5 @@
 ## ⚙️ Source Control & Production Workflow
 
 * **Version Control:** Managed across team streams via **Perforce (Helix Core)** with strict asset locking protocols (`.uasset`, `.umap`).
-* **Performance Optimization:** Profiled material instruction counts, texture sample limits, and particle draw calls using Unreal's Shader Complexity.
 
 *(Note: Full project repository is maintained on a private team Perforce server. Interactive node breakdowns and code logic are available upon request.)*
