@@ -12,7 +12,7 @@
 ## 📽️ Visual Summary
 
 ![Project Showcase Reel](./media/tech-art-reel.gif)  
-*HD Video Breakdown with Audio & UI Navigation available on [My Visual Portfolio](#).*
+*HD Video Breakdown with Audio & UI Navigation available on [My Visual Portfolio](https://0137771.wixsite.com/qistinagametech).*
 
 ---
 
