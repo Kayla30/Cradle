@@ -28,8 +28,8 @@
 * **Runtime Parameter Driving:** Tied particle intensity, color shifts, and spawn rates directly to player proximity and gameplay state events using Blueprints.
 
 ### 💃 3. Animation Blueprints & State Machines
-* **Anim State Machine Architecture:** Built modular Animation Blueprints handling locomotion blending, pose transitions, and montage overlays.
-* **Anim Notifies & Sync:** Driven precise gameplay feedback loops by triggering Niagara VFX spawns and audio events directly through Animation Notifies.
+* **Anim State Machine Architecture:** Built Animation Blueprints handling locomotion blending, and pose transitions.
+* **Anim Notifies & Sync:** Driven precise gameplay feedback loops by triggering audio events directly through Animation Notifies.
 
 ### 🖥️ 4. UI Architecture & HUD Systems
 * **Modular UMG Interfaces:** Designed decoupled UI widgets, HUD elements, and menu structures using Blueprints.
